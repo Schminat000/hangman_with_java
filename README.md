@@ -18,8 +18,6 @@ I used Visual Studo Code to compile all the code.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 * [Oracle - Java (JDK Download)](https://www.oracle.com/java/technologies/downloads/)
 * [W3Schools](https://www.w3schools.com/java/default.asp)
 * [GitHub](https://github.com)
